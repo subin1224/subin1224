@@ -26,7 +26,12 @@ I try to grow constantly after Academy completion. 😁😁
 </div>
 
 ## More...
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:salllena33@gmail.com)](mailto:salllena33@gmail.com) <a><img src="https://img.shields.io/badge/Tistory-D3D3D3?style=flat-round&logo=Teradata&logoColor=gray"/></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:salllena33@gmail.com)](mailto:salllena33@gmail.com)&nbsp;
+<a href="https://bbinya.tistory.com/">
+    <img 
+        src="https://img.shields.io/badge/Tistory-D3D3D3?style=flat-round&logo=Teradata&logoColor=gray"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 ---
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=subin1224&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subin1224&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
