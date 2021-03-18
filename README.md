@@ -25,8 +25,7 @@ I try to grow constantly after Academy completion. 😁😁
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-round&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </div>
 
-More...<br>
-
+## More...
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:salllena33@gmail.com)](mailto:salllena33@gmail.com) <a><img src="https://img.shields.io/badge/Tistory-D3D3D3?style=flat-round&logo=Teradata&logoColor=gray"/></a>
 
 ---
