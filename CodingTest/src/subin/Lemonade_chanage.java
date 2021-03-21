@@ -1,4 +1,4 @@
-package test;
+package subin;
 
 public class Lemonade_chanage {
 	static class Solution {
