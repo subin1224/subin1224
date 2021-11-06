@@ -28,9 +28,7 @@ I try to grow constantly after Academy completion. 😁😁
 ## More...
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:salllena33@gmail.com)](mailto:salllena33@gmail.com)&nbsp;
 <a href="https://velog.io/@subin1224/">
-    <img 
-        src="https://img.shields.io/badge/Tistory-D3D3D3?style=flat-round&logo=Teradata&logoColor=gray"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
 </a>
 
 ---
