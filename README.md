@@ -2,16 +2,6 @@
   
 ![header](https://capsule-render.vercel.app/api?type=slice&color=E6E6FA&height=170&section=header&text=SUBIN:&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
 
-# I'm Subin Lee, a growing developer. 🌱
-## 🚀 Start
-From September 8, 2020, I learned Java-based web development(Full stack course) at ITWILL Academy in Gangnam.<br>
-I try to grow constantly after Academy completion. 😁😁
-
-## 😀 I am
-- A growing developer
-- Fast leaner
-- Good at adapting to new challenges
-- A supportive team player
 
 ## 🛠 Skills 
 
